@@ -23,7 +23,7 @@ repository               : " https://Alessia-Moretti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Alessia Moretti"
   pronouns         : # example: "she/her"  
   bio              : "Phd Student in Computer Science and Statistics"
