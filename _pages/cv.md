@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Statistics and Computer Science, Bocconi University, 2025-Current
+* M.Sc in Mathematics for Data Science, University of Trento, 2023-2025
+* B.Sc in Mathematics, University Milano-Bicocca, 2020-2023
 
-Work experience
+Scholarships
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+PhD Scholarships University Luigi Bocconi, Milan, Italy Sep 2025 – in progress
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Studies abroad
+======
+Master Thesis abroad - Erasmus Traineeships program University of Edinburgh, Edinburgh, UK March 2025 – May 2025
+  
+Language Skills
+======
+* Italian: native
+* English: fluent - B2
+* German: B1
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+IT Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python, R, Matlab: good knowledge
+* Word, Power Point: good knowledge
 
-Publications
+Hobbies and Interests
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Outside of research, I enjoy staying active through outdoor activities and exploring new places through travel. I also find relaxation in reading and and cooking, both of which provide a creative outlet from my academic work.
